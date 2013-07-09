@@ -17,13 +17,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
 
 });
 
-
-////response.send (data);
-
-
 ///////  response.send('Hello World 2!');
-
-
 
 });
 
