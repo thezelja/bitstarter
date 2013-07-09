@@ -12,11 +12,13 @@ var fs = require('fs')
 fs.readFile(filename, 'utf8', function(err, data) {
   if (err) throw err;
   console.log('Finished file: ' + filename);
-  console.log(data)
+  console.log(data);
+  response.send(data);
+
 });
 
 
-response.send (data);
+////response.send (data);
 
 
 ///////  response.send('Hello World 2!');
