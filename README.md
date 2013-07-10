@@ -1,3 +1,3 @@
 bitstarter
 ==========
-Zee
+My sample Bitstarter project (Zee)
