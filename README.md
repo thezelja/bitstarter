@@ -1,3 +1,3 @@
-bitstarter
+MyBitstarter
 ==========
-Zee
+My sample Bitstarter project (Zee)
